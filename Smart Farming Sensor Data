@@ -1,0 +1,54 @@
+🌾 Smart Farming Sensor Data for Yield Prediction
+Author: Krish Patel
+
+
+Project Overview:-
+This project uses a Power BI dashboard to visualize and analyze data from simulated smart farming operations. These operations are powered by IoT sensors and satellite data, capturing critical environmental and operational variables influencing crop yield across 500 farms located in India, the USA, and Africa.
+The goal is to provide actionable insights into:
+Crop performance, Regional yield comparisons, Impact of environmental factors (temperature, rainfall, humidity) on crop productivity
+
+
+
+
+🎯 Objectives:-
+1. Measure total crop yield performance
+Assess overall productivity across the 500 smart farms to evaluate farming success at scale.
+2. Identify high-yielding crop types
+Analyze which crops contribute the most to the overall yield, helping prioritize future farming strategies.
+3. Compare regional yield variations
+Understand geographical strengths and tailor farming strategies based on regional performance data.
+4. Assess the impact of environmental factors
+Analyze how variables like temperature, rainfall, and humidity influence crop yield, guiding better environmental management.
+
+
+
+
+🔎 Key Questions Explored:-
+1. What is the total yield generated across all 500 smart farms?
+2. Which crop types contribute the most to overall yield?
+(And how is the yield distributed among different crops?)
+3. How does average crop yield vary across different regions?
+4. How do environmental factors (temperature, humidity, rainfall) influence crop yield over time?
+
+
+
+
+📈 Key Insights:-
+1. Maize and Rice emerged as the top-yielding crops, contributing significantly to a total yield of 2.02M kg/ha across all smart farms.
+2. Environmental conditions (especially temperature, rainfall, and humidity) play a critical role in influencing crop productivity.
+
+
+
+
+
+
+🛠 Technologies Used
+1. Power BI (for dashboard design and analytics)
+2.IoT sensor data simulation
+3.Satellite data integration
+4.Agricultural data modeling
+
+
+
+✅ Conclusion
+This smart farming project demonstrates the power of real-time environmental monitoring and data-driven decision-making in agriculture. It shows how smart farming technologies can maximize yields, optimize resource use, and help address food security challenges globally.
